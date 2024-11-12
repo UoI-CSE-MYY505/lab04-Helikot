@@ -1,4 +1,9 @@
-
+# Yes ofc Once more i troll, I dont know what im doing with my life
+# Once more Im slowly sinking into the abyss
+# Once more the well is dry, only demons now duel here
+# Once more i wonder what im doing with my life
+# Is there an end to this suffering?
+# Pumped up kicks
 .globl str_ge, recCheck
 
 .data
